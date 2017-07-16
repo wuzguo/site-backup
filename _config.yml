@@ -50,30 +50,6 @@ highlight:
   auto_detect: true
   tab_replace:
 
-# Category & Tag
-default_category: 前端
-category_map:
-   前端: big-front-end
-   后台: server-side
-   数据库: db
-   操作系统: os
-   设计: design
-   资源: resource
-tag_map:
-  iOS: iOS
-  hexo: hexo
-  swift: swift
-  golang: golang
-  sketch: sketch
-  zeplin: zeplin
-  网站: website
-  后台: serverSide
-  js大法: javascript
-  ReactNative: RN
-  Mac必备工具: MacTools
-  跨平台: CrossPlatform
-
-
 # Date / Time format
 ## Hexo uses Moment.js to parse and display date
 ## You can customize the date format as defined in
@@ -91,18 +67,18 @@ pagination_dir: page
 ## Themes: http://hexo.io/themes/
 
 
-theme: jsimple
+theme: landscape
 #theme: hexo-theme-hipaper
 
-#fullHttps: false
+fullHttps: true
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 
 deploy:
 - type: git
-  repo: git@github.com:wzguo/site.git
-  branch: gh-pages
+  repo: git@github.com:wzguo/wzguo.github.io.git
+  branch: master
 
 # Backup settings see:https://github.com/coneycode/hexo-git-backup
 backup:
@@ -110,10 +86,3 @@ backup:
   message: backup site of https://wzguo.github.io
   repository:
     github: https://github.com/wzguo/site-backup.git,master
-
-# ------------- Third part private config in theme ----------------------
-# comment ShortName, you can choose only ONE to display.
-disqus_shortname: shuoit
-
-# CNZZ count
-cnzz_siteid: 1262530944
