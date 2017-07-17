@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b23a4dc2-fae1-4769-8580-a2cfba02a983" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/landscape/source/css/style.css" afterPath="$PROJECT_DIR$/themes/landscape/source/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/landscape/source/index.html" afterPath="$PROJECT_DIR$/themes/landscape/source/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -24,8 +25,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/landscape/source/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-48">
-              <caret line="320" column="17" lean-forward="false" selection-start-line="320" selection-start-column="17" selection-end-line="320" selection-end-column="17" />
+            <state relative-caret-position="24">
+              <caret line="280" column="17" lean-forward="false" selection-start-line="280" selection-start-column="17" selection-end-line="280" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -34,8 +35,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/themes/landscape/source/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3216">
-              <caret line="525" column="95" lean-forward="false" selection-start-line="525" selection-start-column="95" selection-end-line="525" selection-end-column="95" />
+            <state relative-caret-position="454">
+              <caret line="432" column="49" lean-forward="true" selection-start-line="432" selection-start-column="49" selection-end-line="432" selection-end-column="49" />
               <folding>
                 <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -47,7 +48,7 @@
       <file leaf-file-name="font-awesome.min.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/landscape/source/css/font-awesome.min.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
+            <state relative-caret-position="72">
               <caret line="3" column="8584" lean-forward="false" selection-start-line="3" selection-start-column="8575" selection-end-line="3" selection-end-column="8584" />
               <folding />
             </state>
@@ -57,7 +58,7 @@
       <file leaf-file-name="font-awesome.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/landscape/source/css/font-awesome.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-13032">
+            <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -97,6 +98,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1932" />
     <option name="height" value="1056" />
   </component>
@@ -373,15 +375,16 @@
       <workItem from="1500134389090" duration="633000" />
       <workItem from="1500172745270" duration="3816000" />
       <workItem from="1500190017038" duration="10994000" />
-      <workItem from="1500295449429" duration="894000" />
+      <workItem from="1500295449429" duration="1005000" />
+      <workItem from="1500301944532" duration="1145000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17087000" />
+    <option name="totallyTimeSpent" value="18343000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="1932" height="1056" extended-state="1" />
+    <frame x="-8" y="-8" width="1932" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19535375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -413,6 +416,41 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/themes/landscape/source/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7680">
+          <caret line="320" column="17" lean-forward="false" selection-start-line="320" selection-start-column="17" selection-end-line="320" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/landscape/source/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/landscape/source/css/font-awesome.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="8584" lean-forward="false" selection-start-line="3" selection-start-column="8575" selection-end-line="3" selection-end-column="8584" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/landscape/source/css/font-awesome.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/themes/landscape/source/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -551,17 +589,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/landscape/source/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-48">
-          <caret line="320" column="17" lean-forward="false" selection-start-line="320" selection-start-column="17" selection-end-line="320" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/landscape/source/css/font-awesome.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-13032">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -569,16 +599,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/landscape/source/css/font-awesome.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
+        <state relative-caret-position="72">
           <caret line="3" column="8584" lean-forward="false" selection-start-line="3" selection-start-column="8575" selection-end-line="3" selection-end-column="8584" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/landscape/source/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="280" column="17" lean-forward="false" selection-start-line="280" selection-start-column="17" selection-end-line="280" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/landscape/source/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3216">
-          <caret line="525" column="95" lean-forward="false" selection-start-line="525" selection-start-column="95" selection-end-line="525" selection-end-column="95" />
+        <state relative-caret-position="454">
+          <caret line="432" column="49" lean-forward="true" selection-start-line="432" selection-start-column="49" selection-end-line="432" selection-end-column="49" />
           <folding>
             <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
